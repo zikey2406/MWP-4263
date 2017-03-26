@@ -1,0 +1,52 @@
+.panel-s{
+	width:75%;
+	background-color:#f2f2f2;
+	margin-right:150px;
+	margin-left: 150px;
+	border-radius: 8px;
+}
+.car1 {
+	width: 95%;
+    border-radius: 5px;
+    cursor:pointer;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.car2 {
+	width: 85%;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-bottom: 35px;
+}
+.carDesc{
+	font-size: 11px;
+	font-weight: normal;
+	padding: 0px 0px;
+	font-style: italic;
+	color: gray;
+	overflow: hidden;
+  	display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+}
+.margin-col{
+    margin-right: 10px;
+    margin-left: 2px;
+}
+.ownerD{
+	font-size: 15px;
+	font-family: Arial;
+	margin-top: 10px;
+}
+.ownerD1 {
+	color:#3498DB;
+	font-size: 12px;
+	font-family: Arial;
+}
+.cnt h3{
+	margin-top: -0px;
+	color: red;
+}
+.pad{
+	padding-right: 8px;
+}
