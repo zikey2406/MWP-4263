@@ -11,3 +11,5 @@ Within this folder there is two html file, xml file for the food menu item and a
 - css folder
 - js folder
 - img folder
+
+![Alt text](Capture.JPG)
