@@ -192,8 +192,8 @@
 			<div class="footer-bottom">
 				<div class="container">
 					<div class="row">
-						<p class="pull-left">Copyright © 2013 E-SHOPPER Inc. All rights reserved.</p>
-						<p class="pull-right">Designed by <span><a target="_blank" href="http://www.themeum.com">Themeum</a></span></p>
+						<p class="pull-left">Lab 3 Assignment - Nurhazirah Binti Ghazali</p>
+						<p class="pull-right">Github <span><a target="_blank" href="https://github.com/zikey2406">zikey2406</a></span></p>
 					</div>
 				</div>
 			</div>
